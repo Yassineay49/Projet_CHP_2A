@@ -1,0 +1,3 @@
+/home/ays/2A/CHP PARAF/CMakeFiles/CHP.dir
+/home/ays/2A/CHP PARAF/CMakeFiles/edit_cache.dir
+/home/ays/2A/CHP PARAF/CMakeFiles/rebuild_cache.dir
